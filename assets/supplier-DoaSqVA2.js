@@ -1,0 +1,2 @@
+import{s as r}from"./index-B0XMtzW3.js";function s(e,t,u,i={}){return r({url:e,method:"get",params:{page:t,page_size:u,search:JSON.stringify(i)}})}function o(e,t){return r({url:`${e}/${t}`,method:"get"})}function a(e,t={}){return r({url:`${e}`,method:"post",data:t})}function p(e,t={}){return r({url:`${e}`,method:"post",data:t})}function l(e){return r({url:`${e}`,method:"get"})}export{o as a,l as b,a as c,p as e,s as g};
+//# sourceMappingURL=supplier-DoaSqVA2.js.map
