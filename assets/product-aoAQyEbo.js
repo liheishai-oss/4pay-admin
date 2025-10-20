@@ -1,0 +1,2 @@
+import{s as e}from"./index-Dwi2X-zo.js";const a=(t,r)=>e({url:t,method:"post",data:r}),s=(t,r)=>e({url:t,method:"post",data:r}),n=(t,r)=>e({url:`${t}/${r}`,method:"get"}),d=t=>e({url:t,method:"get"}),c=(t,r)=>e({url:t,method:"post",data:r}),u=t=>e({url:`/api/v1/admin/product/${t}/merchants`,method:"get"}),m=t=>e({url:"/api/v1/admin/product/assign-merchant",method:"post",data:t}),p=t=>e({url:"/api/v1/admin/product/update-merchant-rate",method:"post",data:t});export{m as a,a as b,u as c,d,s as e,c as f,n as g,p as u};
+//# sourceMappingURL=product-aoAQyEbo.js.map
